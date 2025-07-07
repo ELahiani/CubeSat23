@@ -1,0 +1,121 @@
+0. Cover Page:
+   - Title: Engineering Notebook for [Carthage-1 CubeSat Mission]
+   - LabLabi Labs
+   - Date Range: 7th - 11th of July
+
+0. Table of Contents:
+   1/ Introduction
+   2/ Mission Concept
+   3/ Our Journey
+   4/ Design and Development
+   5/ Component Selection and Integration
+   6/ Testing and Verification
+   7/ Launch and Deployment
+   8/ Mission Operations and Data Analysis
+   9/ Lessons Learned
+   10/ Conclusion
+   11/ Appendices
+
+1. Introduction:
+
+What's a CubeSat?
+A CubeSat, short for Cube Satellite, is a type of miniaturised satellite that is built using standard dimensions and components. CubeSats were first developed as an educational tool to provide students and researchers with a low-cost platform for space exploration and experimentation. However, they have gained popularity due to their small size, low cost, and ease of deployment.
+CubeSats are typically cube-shaped and have standardised dimensions of 10 centimetres (about 4 inches) per side. They are often referred to by their "U" value, which represents the number of these 10 cm cubes they occupy. For example, a 1U CubeSat is a single cube, while a 3U CubeSat is three cubes stacked together.
+These satellites are designed to perform a wide range of missions, including scientific research, technology demonstration, Earth observation, communication experiments, and more. While they are smaller and less capable than traditional satellites, CubeSats provide an accessible platform for many innovative ideas and experiments.
+CubeSats are commonly launched as secondary payloads, hitching a ride on larger rockets that are primarily carrying larger satellites or payloads. This approach allows for cost-effective access to space for CubeSat developers. Once in orbit, CubeSats operate independently, performing their designated mission objectives.
+Due to their small size and limited resources, CubeSats face several challenges, such as power constraints, limited communication capabilities, and shorter lifespans compared to larger satellites. However, advancements in technology continue to improve their capabilities, making CubeSats a valuable tool for various applications in space exploration and research.
+   
+Who Are We?
+We, LabLabi Labs are a group of 5 teenaged tunisian high school students of ages ranging between 14 to 17. Our passion for space engineering and eagerness to improve our knowledge about it has brought us together to work on the Carthage-1 CubeSat mission.
+
+Kmar Zammit, 14
+1st Grader
+Coach Assistant VEX V5
+Builder (*)
+
+Youseef Ben Jmeaa, 14
+9th Grader
+Mentee at the First Skills Club
+Programmer (*)
+
+Eya Lahiani, 16
+3rd Grader, Math Section
+Competetive Programming Coach at the First Skills Club.
+Engineering Notebook Writer (*)
+
+Ibrahim Chabchoub, 16
+3rd Grader, Math Section
+Python and AI Coach at the First Skills Club.
+Programmer (*)
+
+Mohamed Ben Haj, 17
+3rd Grader, Technology Section
+VEX V5 Coach at the First Skills Club.
+3D Designer (*)
+
+(*) Note that all these roles are not fixed to a certain member alone but interchangeable. These were only put to specify who worked most on each part.
+
+Our CubeSat Mission
+Our CubeSat is a 1U (10cm x 10cm x 10cm) cube-shaped Satellite. Its mission is to track and monitor various aspects of inner and outer space, which will be discussed in more depth throughout the Engineering Notebook.
+The purpose of the Engineering Notebook of our CubeSat mission is to document the process of its creation following each step we made and give credit where it is due.
+
+2. Mission Concept:
+Our CubeSat will be deployed to monitor various aspects of inner space as its first mission and outer space as its second. 
+The outer space mission (which will be primary) is mainly about the tracking of space debris which will help in improving space situational awareness and contribute to space debris mitigation efforts.
+And the inner space mission (which will be secondary) will be about providing a study of the Earth's atmosphere by measuring parameters such as air composition, temperature, pressure, or pollution levels. This can contribute to climate research, weather forecasting, and environmental monitoring.
+
+3. Our Journey
+(Make a road map of all days and learned technical lessons throughout the camp)
+
+Day 1:
+- A general introduction to cubesats
+- Quiz about CubeSats (We won it)
+- Brainstorming session:
+	- Team name
+	- Project name
+	- Mission and Objectives
+Day 2:
+
+4. Design and Development:
+Overview:
+This an overview of the CubeSat's design, including the overall architecture and subsystems.
+
+Design Process:
+How?
+   - Describe the design process, iterations, trade-offs, and decisions made at each stage.
+
+Why?
+   - Include diagrams, schematics, and technical drawings to illustrate the design.
+
+5. Component Selection and Integration:
+   - Detail the selection process for key components and subsystems.
+   - Discuss the rationale behind component choices, including performance, size, weight, power, and compatibility.
+   - Describe the integration process, including any modifications or customizations made.
+
+6. Testing and Verification:
+   - Outline the test plans and procedures used to verify the functionality and performance of the CubeSat.
+   - Document test results, observations, and any issues encountered during testing.
+   - Include data, charts, and graphs to support the test findings.
+
+7. Launch and Deployment:
+   - Describe the process and preparations for the CubeSat's launch and deployment.
+   - Document any interactions with launch providers, deployment mechanisms, and regulatory requirements.
+
+8. Mission Operations and Data Analysis:
+    - Detail the procedures and protocols for operating the CubeSat once it is in orbit.
+    - Discuss data acquisition, telemetry, and communication protocols.
+    - Present initial data analysis and any significant findings or observations.
+
+9. Lessons Learned:
+    - Reflect on the challenges, successes, and lessons learned throughout the CubeSat project.
+    - Document any changes made to the initial design or development plans and the reasons behind them.
+    - Discuss any recommendations for future CubeSat projects.
+
+10. Conclusion:
+    - Summarise the overall project, its achievements, and its impact.
+    - Discuss the fulfilment of the mission objectives and any future plans or follow-up work.
+
+12. Appendices:
+    - Include relevant supporting materials, such as detailed calculations, software code snippets, additional diagrams, and references.
+
+

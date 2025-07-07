@@ -1,0 +1,16 @@
+Cubesat name: 
+Carthage-1, I(s)lander-1, KerkenaSat, LabLabi (Lab2)
+
+Team name:
+StardustExplorers/Crusaders
+NeonGenesis
+GalaxyGuardians
+CosCsi Clan/Club
+LabLabi Labs
+
+Website (mention working on the backend), (done)
+VR Game Simulation/Ground Station
+Prototype,
+Poster
+Engineering Notebook, 
+Video (script is done, footage needed)
