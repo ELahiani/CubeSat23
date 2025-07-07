@@ -1,0 +1,90 @@
+meeting at port by 7.30
+departure to kerkennah by 8
+arrival by 10am
+taking a bus, arrival to the hostle
+luggage setting and bedroom picking
+breakfast break by 11am
+schedule introduction and discussion by 12am
+praying break
+introduction: what is a cubesat: nano satellites
+
+what are they: 
+small, low cost, space craft to revolutionize space exploration, couple of inches and less than 5 pounds
+size and standars
+accessibility
+versatility
+cost-effectiveness
+expands opportunities, education, exploration...
+
+are they important: 
+1/ benefits 
+affordable
+rapid dev
+educational opportunities
+access to space
+versibility and scalability
+2/ limitations
+size & payload (a module of sensors maybe)
+the smaller the sat is the less its use will be
+power & communication
+short mission lifetime
+limited orbital options
+enviornmental hazards
+3/ opportunities
+educational programs, competitions (cubesat launch initiative), collaborations, stem clubs, online resources, outreach programs
+
+use
+earth observation
+technology demonstration
+communication
+scientific research
+
+successful cubesats
+2012- QB50 (network of 50 cubesats)
+2013- ArbuSpace (experiments in space)
+2016- Grace-fo (earth's gravitation)
+2017- IceCube (capture high-resolution images of the earth's poles)
+2018- MarCO (communication relays for NASA)
+2021- Team Tunisia's CubeSats
+
+types
+1U = the unite (10 cubic centimeters)
+Pocket Qube (0.5U)
+FemtoSats (less then 1U)
+NanoSats (costumized qbsats)
+
+Satellite remote sensing
+concept dev (mission objectives and scope)
+design and deg (detaled specification and selection of components)
+assembly and integration 
+testing and verification
+
+what else?
+launch and deployment
+operation & data collection
+duration & decommissioning (mission completion)
+
+How they work 
+What's it made of
+power systems (batteries, solar pannels)
+communication systems (ground station)
+sontrol system (maintaining the orientation or attitude in space)
+OnBoard computer (brain of the qbsat)
+onboard:
+--> control system: gyroscope, sensors
+--> communication: sender and receiver
+
+history
+1990, standford uni, cubsat1 and quakesat
+in 2006: first constillation of cubesats
+2013: nasa's lauch opportunities
+
+team divisions:
+mohamed, youssef, chabchou, me, kmar
+
+Lunch Break
+Rest
+Beach
+Return from beach, changing into new clothes after shower
+dinner
+sleep early

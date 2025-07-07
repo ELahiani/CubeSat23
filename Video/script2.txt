@@ -1,0 +1,59 @@
+Script: 
+[Opening Scene: Captivating shots of space with background music]
+
+Narrator: "Space exploration, the final frontier. 
+For centuries, the universe has captured our imagination, beckoning us to explore its vast wonders. 
+
+However with the wave of privatisation occurring as of late, it has been a realm accessible only to the select few, large companies and government agencies armed with significant resources… Massive rockets, towering launch pads, and astronomical budgets have defined the narrative of venturing beyond our planet.”
+
+[USSR GOING TO SPACE!]
+
+“But, what if I told you that this is no longer the case.
+A revolution is happening in space, where small satellites are making big waves. 
+Welcome to the world of CubeSats."
+
+[Transition: Visuals of different CubeSat missions]
+
+Narrator: "So, what exactly is a CubeSat? Simply put, it's a miniaturised satellite built using standardised dimensions and components. The size of a CubeSat is determined by 'U' values, such as 1U, 2U, or 3U, representing the number of 10 cm cubes it occupies."
+
+[Transition: Historical footage of early CubeSat missions]
+
+Narrator: "CubeSats originated as an educational tool, but they quickly gained popularity due to their small size, low cost, and accessibility. They've become a platform for a wide range of missions, from scientific research to technology demonstration."
+
+[Transition: Visuals of CubeSat components]
+
+Narrator: "Inside these tiny satellites, you'll find an impressive array of components. Solar panels harness the power of the sun, batteries store energy, communication systems enable data transmission, and sensors and instruments collect valuable information."
+
+[Transition: Animation showcasing CubeSat deployment]
+
+Narrator: "Getting CubeSats into orbit is an exciting process. They hitch a ride as secondary payloads on larger rockets and are deployed using deployers or dedicated launch vehicles."
+
+[Transition: Challenges and innovations]
+
+Narrator: "Of course, CubeSats come with their own set of challenges. Limited resources, power constraints, and shorter lifespans are some of the hurdles they face. But, innovative advancements are constantly pushing the boundaries of what CubeSats can achieve."
+
+[Transition: Visuals of CubeSat missions]
+
+Narrator: "CubeSats are making a significant impact in space exploration, scientific research, and education. They provide cost-effective access to space for diverse missions, including Earth observation, communication experiments, and technology demonstrations."
+
+[Transition: Future-oriented visuals]
+
+Narrator: "Looking ahead, the future of CubeSats is filled with possibilities. Interplanetary missions, swarm deployments, and advanced scientific investigations are on the horizon. CubeSats have the potential to democratise access to space and foster innovation like never before."
+
+[Closing Scene: Inspiring shot of Earth from space]
+
+Narrator: "So, as we look to the future of space exploration, let us remember that the cosmos is no longer a privilege for the few, but a domain for all interested. 
+Together, we can boldly go where no CubeSat has gone before. 
+Let us probe the mysteries of the universe.
+Let us embrace this new era of discovery. 
+Let us dare to dream and push the boundaries of what is possible."
+
+[Closing Scene: A montage of CubeSat images]
+
+Narrator: "From humble beginnings as an educational tool, CubeSats have become a force to be reckoned with in the space industry. Their small size belies their immense impact. So, keep your eyes on the sky, because the CubeSat revolution is just beginning.”
+
+[Closing shot: Logo or tagline of the video series]
+
+Narrator: "Thank you for joining us on this journey through the world of CubeSats."
+
+[End of Video]

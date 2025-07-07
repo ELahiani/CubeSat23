@@ -1,0 +1,41 @@
+woke up early by 6am
+started working on the engineering notebook waiting for the other to wake up
+got back to sleep by 7am
+woke up again by 8am
+had breakfast
+finished by 9.40 and rested a bit while listening to some arabic music 
+started first workshop by 10am: 3D WORKSHOP (Modelling and Renderring oriented)
+- Understanding the 3 dimensions of space 
+- Designing basic shapes 
+- Join 2 objects together 
+- Cut an object using a certain shape 
+- Extrude, sketch, revolve, threading (inside: filtage/outside: tarrodage)
+- Filet (smooth corners), Chamfer (break the selected edgr into 2 other edges)
+- Shell (empties the inside of a shape)
+- Change Parameters
+- Split (seperate a plan from an object) =/= Combine
+- pressing 'm' makes you able to move the object around
+- Always devide the task and then join everything in one project
+- Construct (virtual planes): offset planes
+- Timeline: illustrates the design process step by step
+- Joints: rotating, sliding, rigid body
+- Component (free) vs Body (captive)
+- add component and join them (press j)
+- select a part of the corner of the first component and one part of the corner of the other componenet and then select motion
+--> made a slidable window using the slide joint
+
+types of assembling cubesats:
+2 pieces of 3 faces cubesats
+6 pieces of 1 face cubesats
+3 pieces of 2 faces cubesats
+4 pieces cubesats
+
+ate lunch
+started designing the cubesat
+working on a video
+logo design
+engineering notebook progress
+game break
+went to the beach
+came back, showered, ate dinner 
+and went to sleep by 10/11pm

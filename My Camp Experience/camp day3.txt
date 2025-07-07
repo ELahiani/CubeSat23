@@ -1,0 +1,123 @@
+woke up by 8am
+worked a bit on 3d design
+walid helped my get how to do a circular pattern (revolving an object around and axe or a circular surface)
+design change
+breakfast from 8am to 9am
+start of 3rd presentation 10.30am: basics of wireless communication
+
+(Part1:)
+1/ what is it
+wireless communication is the transfer of data without the need of physical cables through electromagnetic waves (pc and router= wireless, pc and tv= with wire)
+
+2/ types
+radio: brodcasting, wi-fi, bluetooth, cellular networks
+InfraRed (ir): remote controller and tv/ac example
+satelite communication: insat, astra... global positioning system, satellite internet
+We will use radio communication (nrf24L01: 2.4ghz) because
+- variable controlled range
+- variety of data type choice (binary code)
+- power saver
+- has many shapes (wifi, bluetooth..)
+
+3/ how it works
+(kmnjaton)
+byte = 8 bits kilo = 1024 byte = 2^10bytes ,mega = 1024 kilo byte = (2^10)^10, giga...
+wave: transfers energy through oscillation (the back and forth movement in function of time) in an athmosphere
+we talk a LOT about sine waves
+ac with piston, bobine and a pipie/dc constant
+electro-magnetic (maxwell's equations)
+the fourth dimensional divergence of an anti symetric second rank tensor is equal to 0 and there was light and on the seventh god created the universe
+amplitude = U/Imax or |U/Imin|
+frequency= 1/amplitude
+lambda = wavelength = the distance between the start and the end of the cicle
+period is minimum part of the wave that makes a full evolution of the sine wave when multiplied (t=1/T)
+- electromagnetic spectrum
+- radio spectrum 100 Khz to 10 Ghz
+wavelength and quality are opposites
+radio stations send waves that go smaller and smaller over time and make new station to receive them
+Book recomendation by yacine: Wireless communication principles
+
+lunch break by 3pm
+start of 4th presentation by 3.30pm: Arduino
+
+(Part2:)
+arduino is a micro controller that has a micro computer in it; takes orders from the program, translates to assembly (low-lever programming language) then to binary and works the hardware with these orders.
+1/ arduino Communication protocols
+- formal descriptions of digital message formats and rules
+- used to cover authentication, error detection and correction, and signaling
+serial communication and parallel communication
+bit per bit 			all together in parallel
+relatively slow but material 	relatively fast but materially inefficient
+efficient
+
+synchronous & asynchronous transmission
+clock sign (sclk)
+chronogram de signal d'horloge (a logic gate)
+H	^
+1>	|  ____
+	|  |   |
+0>	|__|---|____-------->
+	      \/
+-> this is a sychronous transmission it has a rythm (i9a3), it's a descending sychronous transmission (the arrow is pointing down)
+the chronogram falls to become a "tableau de verité"
+universal serial bus (usb)
+
+asychronous need a start bit (0) and a stop bit (1)
+synchronous serial communication is better it's faster, more stable
+
+the key is the Baud rate (the number of data transmitted per second)
+
+UART= Universal Asychronous Receiver-Transmitter
+-> for a device to device serial communication (for example arduino uno (master) has a tx and an rx pin where you can link an other arduino (slave) to it)
+tx pin always goes to rx pin and vice-versa
+--> can have multiple master devices
+
+SPI= Serial Peripheral Interfacer
+when you have only one master and multiple slave devices --> only one master
+MOSI master output slave input (tx) --> MISO master input slave output (rx)
+
+SSI gives the address of each slave device (define the slave device where we can get data from)
+
+I2C (TWI) --> Inter-Integrated Communication / Two Wire Interface
+When you have multiple master devie as well apart from multiple slave devices
+has 2 bus cables
+has 2 resistors --> it has polirisation, it minimizes error and enhances precision
+
+NRF24L01
+1/ Why?
+it's easy, there's esp32 (easy, close up range), LoRa (high level) as alternatives
+it's got some problems such as being a linear type of wireless communication
+
+2/ How to nrf24L01?
+- Sensors: cubesat i2c sensors
+how many sensors will we use?
+sensor will communicate with microcontroller using I2C (the one with resistors, can be 1+ master, easier in building but same as the other almost in programming), and microcontroller using NRF24L01 using SPI (only one master)
+BME280 
+MPU6050
+
+3/ Activity
+Downloaded the arduino ide and the libraries
+we started assembling the nano into the breadboard, the last pin would be in h30
+
+MPU6050:
+vcc to 5v
+sdl to a5
+sda to a4
+check in example
+BME280: same as mpu6050 but vcc to 3v
+
+condensateur bipole with an isolant part, it condences energy, a filter for the signal and makes it more stable.
+
+NRF24l01:
+mi to d11
+mo to d12
+ce to d9
+csn to d10
+
+slept for 1 hr by 7pm to 8pm and then ate dinner
+
+for the rest of the night we:
+finished working on the 3d design
+finished the website
+finished the assembly of the cubesat prototype
+finished the teaser video
